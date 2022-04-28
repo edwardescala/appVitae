@@ -67,9 +67,9 @@ function getComponents() {
     <footer>
       <address>
         <h6>Nuestas Redes</h6>
-        <a href="#" class="material-icons-outlined">facebook</a>
-        <a href="#" class="material-icons-outlined">whatsapp</a>
-        <a href="#" class="material-icons-outlined">telegram</a>
+        <a href="#" translate="no" class="material-icons-outlined">facebook</a>
+        <a href="#" translate="no" class="material-icons-outlined">whatsapp</a>
+        <a href="#" translate="no" class="material-icons-outlined">telegram</a>
         <span>Edward Escala</span>
         <p>Derechos Reservados 2022</p>
       </address>
